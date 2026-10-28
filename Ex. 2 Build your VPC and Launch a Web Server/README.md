@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: _________PRAKASH V_______________________
-* **Register Number**: ___212225230211__________________
-* **Date of Submission**: __28.10.26________________
+* **Name**: _________PRAKASH V
+* **Register Number**: ___212225230211
+* **Date of Submission**: __28.10.26
 
 ---
 
